@@ -6,63 +6,63 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('home', '0002_load_initial_data'),
+        ("home", "0002_load_initial_data"),
     ]
 
     operations = [
         migrations.AddField(
-            model_name='customtext',
-            name='fdfgdrg',
+            model_name="customtext",
+            name="fdfgdrg",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='customtext',
-            name='iuuioyuy',
+            model_name="customtext",
+            name="iuuioyuy",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='customtext',
-            name='oio',
+            model_name="customtext",
+            name="oio",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='customtext',
-            name='oiou',
+            model_name="customtext",
+            name="oiou",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='customtext',
-            name='opipuoii',
+            model_name="customtext",
+            name="opipuoii",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='customtext',
-            name='qw',
+            model_name="customtext",
+            name="qw",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='customtext',
-            name='wqe',
+            model_name="customtext",
+            name="wqe",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='customtext',
-            name='wqere',
+            model_name="customtext",
+            name="wqere",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='customtext',
-            name='yjuy',
+            model_name="customtext",
+            name="yjuy",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='customtext',
-            name='ytu',
+            model_name="customtext",
+            name="ytu",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='customtext',
-            name='yuogfgs',
+            model_name="customtext",
+            name="yuogfgs",
             field=models.BigIntegerField(blank=True, null=True),
         ),
     ]
